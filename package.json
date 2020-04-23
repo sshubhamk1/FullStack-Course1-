@@ -4,9 +4,7 @@
   "description": "This is a test directory to learn Git and Node",
   "main": "index.html",
   "scripts": {
-    "start": "npm run lite",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -17,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/sshubhamk1/FullStack-Course1-/issues"
   },
-  "homepage": "https://github.com/sshubhamk1/FullStack-Course1-#readme",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  }
+  "homepage": "https://github.com/sshubhamk1/FullStack-Course1-#readme"
 }
